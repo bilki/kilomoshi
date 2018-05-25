@@ -3,7 +3,7 @@ buildscript {
     ext.min_version = 24
     ext.compile_version = 27
     ext.support_version = '27.0.2'
-    ext.arrow_version = '0.6.1'
+    ext.arrow_version = '0.7.1'
 
     repositories {
         google()
